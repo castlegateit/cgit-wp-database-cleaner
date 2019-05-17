@@ -5,7 +5,7 @@
 Plugin Name: Castlegate IT WP Database Cleaner
 Plugin URI: https://github.com/castlegateit/cgit-wp-database-cleaner
 Description: Remove redundant database records.
-Version: 0.1
+Version: 0.2
 Author: Castlegate IT
 Author URI: https://www.castlegateit.co.uk/
 License: AGPLv3
